@@ -16,5 +16,6 @@ Links:
   http://www.python.org/ftp/python/2.7.2/python-2.7.2.msi
 
 
-Example:
+Example (wallet.dat is in current directory):
+  
   sudo python pywallet.py --dumpwallet --datadir=. --password=*********
